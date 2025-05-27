@@ -17,10 +17,12 @@
   <center>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturFGaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
   </center>
-  <center>  
+  <!-- <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturFGaldino&layout=compact&langs_count=7&theme=dark"/> 
   </center>
-</div>
+</div> -->
+
+
 
           
           
