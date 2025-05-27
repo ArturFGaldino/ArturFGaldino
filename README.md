@@ -10,7 +10,7 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/figma-000000.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="java" src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+</div>
 <h2>GitHub Stats</h2> 
 <div>
   <a href="https://github.com/ArturFGaldino">
