@@ -3,6 +3,13 @@
 
 - Software Engineering Student at the University of Brasilia - UnB.
 
+
+<div> 
+  <a href = "mailto:fernandesartur4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/artur-galdino-342445365/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
 <h2>Learning Languages and Tools</h2>
 <div style="display: inline">
   <img align="center" alt="html" src="https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,10 +22,10 @@
 <div>
   <a href="https://github.com/ArturFGaldino">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArturFGaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArturFGaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturFGaldino&layout=compact&langs_count=7&theme=dark"/> 
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturFGaldino&layout=compact&langs_count=7&theme=dark"/> 
   </center>
 </div>
 
