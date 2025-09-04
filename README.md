@@ -19,15 +19,32 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 <h2>GitHub Stats</h2> 
-<div>
-  <a href="https://github.com/ArturFGaldino">
-  <center>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArturFGaldino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturFGaldino&layout=compact&langs_count=7&theme=dark"/> 
-  </center>
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=ArturFGaldino&show_icons=true&theme=transparent"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturFGaldino&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ArturFGaldino&theme=transparent&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
