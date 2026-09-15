@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "ArturFGaldino"
+          git config --global user.email "fernandesartur4@gmail.com"
           git add README.md cache/
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update GitHub Stats in README" && git push)
