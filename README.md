@@ -69,7 +69,7 @@ Additionally, I hold **English proficiency**, reinforced by a 1-year academic im
 ## 💻 GitHub Stats
 
 <!-- START_SECTION:github_stats -->
-- **Repos:** 0 {Contributed: 0} | **Stars:** 0
-- **Commits:** 434 | **Followers:** 6
-- **Lines of Code on GitHub:** 0 (0++, 0--)
+- **Repos:** 8 {Contributed: 193} | **Stars:** 2
+- **Commits:** 489 | **Followers:** 6
+- **Lines of Code on GitHub:** 191,351 (241,829++, 50,478--)
 <!-- END_SECTION:github_stats -->
