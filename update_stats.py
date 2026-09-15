@@ -2,6 +2,7 @@
 import re
 import json
 import requests
+import sys
 
 USER_NAME = os.getenv('USER_NAME', 'ArturFGaldino')
 TOKEN = os.getenv('ACCESS_TOKEN') or os.getenv('GITHUB_TOKEN')
@@ -9,21 +10,24 @@ TOKEN = os.getenv('ACCESS_TOKEN') or os.getenv('GITHUB_TOKEN')
 HEADERS = {'Authorization': f'token {TOKEN}'} if TOKEN else {'User-Agent': 'Python-Stats-Script'}
 GRAPHQL_URL = 'https://api.github.com/graphql'
 
+def log(msg):
+    print(msg, flush=True)
+
 def graphql_query(query, variables=None):
     if not TOKEN:
         return None
     try:
         res = requests.post(GRAPHQL_URL, json={'query': query, 'variables': variables or {}}, headers=HEADERS, timeout=15)
         if res.status_code != 200:
-            print(f"GraphQL returned status {res.status_code}")
+            log(f"GraphQL returned status {res.status_code}")
             return None
         data = res.json()
         if 'errors' in data:
-            print(f"GraphQL errors: {data['errors']}")
+            log(f"GraphQL errors: {data['errors']}")
             return None
         return data.get('data')
     except Exception as e:
-        print(f"GraphQL request exception: {e}")
+        log(f"GraphQL request exception: {e}")
         return None
 
 def get_stats_via_rest(username):
@@ -205,7 +209,7 @@ def get_total_loc(username, user_id, repos_list):
     total_repos = len(repos_list)
     
     for idx, repo_name_with_owner in enumerate(repos_list, start=1):
-        print(f"[{idx}/{total_repos}] Checking repo: {repo_name_with_owner}...")
+        log(f"[{idx}/{total_repos}] Checking repo: {repo_name_with_owner}...")
         owner, name = repo_name_with_owner.split('/')
         try:
             cursor = None
@@ -214,7 +218,7 @@ def get_total_loc(username, user_id, repos_list):
             repo_commits = 0
             total_history_count = 0
             page_count = 0
-            max_pages = 15  # 1500 commits max per repo to prevent timeouts on huge repos
+            max_pages = 10  # 1000 commits max per repo to ensure quick run
             
             while page_count < max_pages:
                 data = graphql_query(loc_query, {'owner': owner, 'name': name, 'cursor': cursor})
@@ -235,7 +239,7 @@ def get_total_loc(username, user_id, repos_list):
                     repo_adds = cached_data.get('adds', 0)
                     repo_dels = cached_data.get('dels', 0)
                     repo_commits = cached_data.get('commits', 0)
-                    print(f"   -> Used cache for {repo_name_with_owner} ({total_history_count} commits)")
+                    log(f"   -> Used cache for {repo_name_with_owner} ({total_history_count} commits)")
                     break
                 
                 for edge in history.get('edges', []):
@@ -262,7 +266,7 @@ def get_total_loc(username, user_id, repos_list):
             total_deletions += repo_dels
             total_commits += repo_commits
         except Exception as e:
-            print(f"Skipping repo {repo_name_with_owner}: {e}")
+            log(f"Skipping repo {repo_name_with_owner}: {e}")
             if repo_name_with_owner in loc_cache:
                 cached_data = loc_cache[repo_name_with_owner]
                 total_additions += cached_data.get('adds', 0)
@@ -304,17 +308,17 @@ def update_readme(owned_count, contrib_count, stars_count, commits_count, follow
         f.write(new_content)
 
 if __name__ == '__main__':
-    print(f"Updating GitHub Stats for {USER_NAME}...")
+    log(f"Updating GitHub Stats for {USER_NAME}...")
     
     user_id, followers, commit_contribs = get_user_info(USER_NAME)
     
     if TOKEN and user_id:
-        print("Authenticated mode (GraphQL): Fetching complete stats across all repos...")
+        log("Authenticated mode (GraphQL): Fetching complete stats across all repos...")
         owned, contrib, stars, all_repos = get_repos_and_stars(USER_NAME)
         loc_commits, additions, deletions, net_loc = get_total_loc(USER_NAME, user_id, all_repos)
         total_commits = max(commit_contribs, loc_commits)
     else:
-        print("Unauthenticated / Local mode (REST API): Fetching public stats...")
+        log("Unauthenticated / Local mode (REST API): Fetching public stats...")
         owned, contrib, stars, total_commits, followers = get_stats_via_rest(USER_NAME)
         cache_file = 'cache/loc_cache.json'
         additions, deletions, net_loc = 0, 0, 0
@@ -329,9 +333,9 @@ if __name__ == '__main__':
             except Exception:
                 pass
 
-    print(f"Repos: {owned} (Contrib: {contrib}), Stars: {stars}")
-    print(f"Commits: {total_commits}, Followers: {followers}")
-    print(f"LOC Net: {net_loc} (+{additions}, -{deletions})")
+    log(f"Repos: {owned} (Contrib: {contrib}), Stars: {stars}")
+    log(f"Commits: {total_commits}, Followers: {followers}")
+    log(f"LOC Net: {net_loc} (+{additions}, -{deletions})")
     
     update_readme(owned, contrib, stars, total_commits, followers, net_loc, additions, deletions)
-    print("README.md updated successfully!")
+    log("README.md updated successfully!")

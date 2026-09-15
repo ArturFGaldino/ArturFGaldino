@@ -28,6 +28,7 @@ jobs:
       - name: Update GitHub Stats
         run: python update_stats.py
         env:
+          PYTHONUNBUFFERED: "1"
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USER_NAME: ArturFGaldino
