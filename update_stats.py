@@ -85,7 +85,7 @@ def get_repos_and_stars(username):
     owned_query = '''
     query($login: String!, $cursor: String) {
         user(login: $login) {
-            repositories(first: 100, after: $cursor, ownerAffiliations: [OWNER], isFork: false) {
+            repositories(first: 100, after: $cursor, ownerAffiliations: [OWNER]) {
                 totalCount
                 edges {
                     node {
@@ -106,7 +106,7 @@ def get_repos_and_stars(username):
     all_repos_query = '''
     query($login: String!, $cursor: String) {
         user(login: $login) {
-            repositories(first: 100, after: $cursor, ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER], isFork: false) {
+            repositories(first: 100, after: $cursor, ownerAffiliations: [OWNER, COLLABORATOR, ORGANIZATION_MEMBER]) {
                 totalCount
                 edges {
                     node {
@@ -217,10 +217,8 @@ def get_total_loc(username, user_id, repos_list):
             repo_dels = 0
             repo_commits = 0
             total_history_count = 0
-            page_count = 0
-            max_pages = 10  # 1000 commits max per repo to ensure quick run
             
-            while page_count < max_pages:
+            while True:
                 data = graphql_query(loc_query, {'owner': owner, 'name': name, 'cursor': cursor})
                 if not data:
                     break
@@ -253,7 +251,6 @@ def get_total_loc(username, user_id, repos_list):
                 if not history['pageInfo']['hasNextPage']:
                     break
                 cursor = history['pageInfo']['endCursor']
-                page_count += 1
                 
             new_cache[repo_name_with_owner] = {
                 'total_count': total_history_count,
