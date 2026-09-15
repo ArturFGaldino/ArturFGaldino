@@ -251,8 +251,62 @@
     "dels": 0,
     "commits": 0
   },
+  "mdsreq-fga-unb/2022.2-Dubium-1": {
+    "total_count": 278,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2022.2-Dubium-2": {
+    "total_count": 278,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2022-1-TiControla-FrontEnd": {
+    "total_count": 233,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2023.1-Dubium2.0": {
+    "total_count": 596,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2022.2-Aprender3": {
+    "total_count": 478,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2023.1-Dubium2.0-1": {
+    "total_count": 459,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2023.1-Dubium2.0-2": {
+    "total_count": 459,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2023.1-Dubium2.0-3": {
+    "total_count": 459,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
   "mdsreq-fga-unb/SuperR": {
     "total_count": 9,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2023.1-EasyStock-1": {
+    "total_count": 330,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -445,6 +499,12 @@
   },
   "mdsreq-fga-unb/2024.1-TechConnect": {
     "total_count": 34,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "mdsreq-fga-unb/2022.2-Dubium1.0": {
+    "total_count": 278,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -660,10 +720,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 22,
-    "adds": 586,
-    "dels": 129,
-    "commits": 22
+    "total_count": 25,
+    "adds": 2915,
+    "dels": 141,
+    "commits": 25
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -797,12 +857,6 @@
     "dels": 524,
     "commits": 50
   },
-  "ArturFGaldino/servidor-mine": {
-    "total_count": 1,
-    "adds": 1,
-    "dels": 0,
-    "commits": 1
-  },
   "ArturFGaldino/Portifolio-Orcestra": {
     "total_count": 4,
     "adds": 513,
@@ -862,6 +916,12 @@
     "adds": 0,
     "dels": 0,
     "commits": 0
+  },
+  "CaioSoandrd/gweatherrouting-test": {
+    "total_count": 808,
+    "adds": 193,
+    "dels": 12,
+    "commits": 2
   },
   "mdsreq-fga-unb/REQ-2026.1-T02-ObservatorioJovensTalentos": {
     "total_count": 47,
@@ -1033,6 +1093,24 @@
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SigCecp": {
     "total_count": 1,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "gces-iorgut-startup/backend": {
+    "total_count": 101,
+    "adds": 526,
+    "dels": 20,
+    "commits": 8
+  },
+  "gces-iorgut-startup/frontend": {
+    "total_count": 97,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "gces-iorgut-startup/documentation": {
+    "total_count": 20,
     "adds": 0,
     "dels": 0,
     "commits": 0
