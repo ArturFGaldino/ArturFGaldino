@@ -69,7 +69,10 @@ Additionally, I hold **English proficiency**, reinforced by a 1-year academic im
 ## 💻 GitHub Stats
 
 <!-- START_SECTION:github_stats -->
-- **Repos:** 7 {Contributed: 206} | **Stars:** 2
-- **Commits:** 501 | **Followers:** 6
-- **Lines of Code on GitHub:** 194,354 (244,876++, 50,522--)
+- **Repos:** 2 {Contributed: 2} | **Stars:** 2 | **Followers:** 6
+- **Commits:** 377 | **Merged PRs:** 26 | **Code Reviews:** 0
+- **Issues:** 3 Open | 28 Closed
+- **Top Languages:** Java 98.0% | Python 2.0%
+- **Lines of Code on GitHub:** 191,351 (241,829++, 50,478--)
+- **Member since:** 1 yr, 10 mos
 <!-- END_SECTION:github_stats -->
