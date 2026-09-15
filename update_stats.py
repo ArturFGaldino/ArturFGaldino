@@ -12,16 +12,22 @@ GRAPHQL_URL = 'https://api.github.com/graphql'
 def graphql_query(query, variables=None):
     if not TOKEN:
         return None
-    res = requests.post(GRAPHQL_URL, json={'query': query, 'variables': variables or {}}, headers=HEADERS)
-    if res.status_code != 200:
+    try:
+        res = requests.post(GRAPHQL_URL, json={'query': query, 'variables': variables or {}}, headers=HEADERS, timeout=15)
+        if res.status_code != 200:
+            print(f"GraphQL returned status {res.status_code}")
+            return None
+        data = res.json()
+        if 'errors' in data:
+            print(f"GraphQL errors: {data['errors']}")
+            return None
+        return data.get('data')
+    except Exception as e:
+        print(f"GraphQL request exception: {e}")
         return None
-    data = res.json()
-    if 'errors' in data:
-        return None
-    return data.get('data')
 
 def get_stats_via_rest(username):
-    user_res = requests.get(f'https://api.github.com/users/{username}', headers=HEADERS)
+    user_res = requests.get(f'https://api.github.com/users/{username}', headers=HEADERS, timeout=15)
     if user_res.status_code != 200:
         raise Exception(f"Failed to fetch user data for {username}: {user_res.status_code}")
     user_data = user_res.json()
@@ -29,7 +35,7 @@ def get_stats_via_rest(username):
     followers = user_data.get('followers', 0)
     public_repos = user_data.get('public_repos', 0)
     
-    repos_res = requests.get(f'https://api.github.com/users/{username}/repos?per_page=100', headers=HEADERS)
+    repos_res = requests.get(f'https://api.github.com/users/{username}/repos?per_page=100', headers=HEADERS, timeout=15)
     stars = 0
     if repos_res.status_code == 200:
         repos_data = repos_res.json()
@@ -37,7 +43,8 @@ def get_stats_via_rest(username):
         
     commits_res = requests.get(
         f'https://api.github.com/search/commits?q=author:{username}',
-        headers={**HEADERS, 'Accept': 'application/vnd.github.cloak-preview+json'}
+        headers={**HEADERS, 'Accept': 'application/vnd.github.cloak-preview+json'},
+        timeout=15
     )
     commits = 0
     if commits_res.status_code == 200:
@@ -61,7 +68,7 @@ def get_user_info(username):
     }
     '''
     data = graphql_query(query, {'login': username})
-    if not data:
+    if not data or not data.get('user'):
         return None, 0, 0
     user = data['user']
     followers = user['followers']['totalCount']
@@ -119,7 +126,7 @@ def get_repos_and_stars(username):
     cursor = None
     while True:
         data = graphql_query(owned_query, {'login': username, 'cursor': cursor})
-        if not data:
+        if not data or not data.get('user'):
             return 0, 0, 0, []
         repos = data['user']['repositories']
         owned_count = repos['totalCount']
@@ -135,7 +142,7 @@ def get_repos_and_stars(username):
     cursor = None
     while True:
         data = graphql_query(all_repos_query, {'login': username, 'cursor': cursor})
-        if not data:
+        if not data or not data.get('user'):
             break
         repos = data['user']['repositories']
         all_count = repos['totalCount']
@@ -195,8 +202,10 @@ def get_total_loc(username, user_id, repos_list):
     total_commits = 0
     
     new_cache = {}
+    total_repos = len(repos_list)
     
-    for repo_name_with_owner in repos_list:
+    for idx, repo_name_with_owner in enumerate(repos_list, start=1):
+        print(f"[{idx}/{total_repos}] Checking repo: {repo_name_with_owner}...")
         owner, name = repo_name_with_owner.split('/')
         try:
             cursor = None
@@ -204,8 +213,10 @@ def get_total_loc(username, user_id, repos_list):
             repo_dels = 0
             repo_commits = 0
             total_history_count = 0
+            page_count = 0
+            max_pages = 10  # Cap at 1000 commits per repo for speed
             
-            while True:
+            while page_count < max_pages:
                 data = graphql_query(loc_query, {'owner': owner, 'name': name, 'cursor': cursor})
                 if not data:
                     break
@@ -218,11 +229,13 @@ def get_total_loc(username, user_id, repos_list):
                 history = ref['target']['history']
                 total_history_count = history['totalCount']
                 
+                # Use cache if commit total hasn't changed
                 if repo_name_with_owner in loc_cache and loc_cache[repo_name_with_owner].get('total_count') == total_history_count:
                     cached_data = loc_cache[repo_name_with_owner]
                     repo_adds = cached_data.get('adds', 0)
                     repo_dels = cached_data.get('dels', 0)
                     repo_commits = cached_data.get('commits', 0)
+                    print(f"   -> Used cache for {repo_name_with_owner} ({total_history_count} commits)")
                     break
                 
                 for edge in history.get('edges', []):
@@ -236,6 +249,7 @@ def get_total_loc(username, user_id, repos_list):
                 if not history['pageInfo']['hasNextPage']:
                     break
                 cursor = history['pageInfo']['endCursor']
+                page_count += 1
                 
             new_cache[repo_name_with_owner] = {
                 'total_count': total_history_count,
