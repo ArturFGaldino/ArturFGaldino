@@ -720,10 +720,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 29,
-    "adds": 3277,
-    "dels": 209,
-    "commits": 29
+    "total_count": 30,
+    "adds": 3290,
+    "dels": 222,
+    "commits": 30
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -1044,7 +1044,7 @@
     "commits": 5
   },
   "nicolejovita/JogoMemoriaOrc": {
-    "total_count": 2,
+    "total_count": 4,
     "adds": 4,
     "dels": 1,
     "commits": 1
@@ -1080,7 +1080,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 22,
+    "total_count": 24,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1110,7 +1110,7 @@
     "commits": 0
   },
   "gces-iorgut-startup/documentation": {
-    "total_count": 20,
+    "total_count": 22,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1146,7 +1146,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 64,
+    "total_count": 65,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1194,7 +1194,7 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_02": {
-    "total_count": 45,
+    "total_count": 46,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1206,7 +1206,7 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_02": {
-    "total_count": 14,
+    "total_count": 24,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1218,19 +1218,19 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_02": {
-    "total_count": 36,
+    "total_count": 63,
     "adds": 637,
     "dels": 118,
     "commits": 7
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega2-TabNews-Forum": {
-    "total_count": 8,
+    "total_count": 19,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_02": {
-    "total_count": 4,
+    "total_count": 7,
     "adds": 0,
     "dels": 0,
     "commits": 0
