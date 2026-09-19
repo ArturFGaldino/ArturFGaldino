@@ -720,10 +720,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 31,
-    "adds": 3306,
-    "dels": 238,
-    "commits": 31
+    "total_count": 32,
+    "adds": 3325,
+    "dels": 257,
+    "commits": 32
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -1080,7 +1080,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 27,
+    "total_count": 28,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1122,7 +1122,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 44,
+    "total_count": 49,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1146,7 +1146,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 69,
+    "total_count": 79,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1194,19 +1194,19 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_02": {
-    "total_count": 114,
+    "total_count": 153,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-G4_ProjetoJogo_Entrega_02": {
-    "total_count": 50,
+    "total_count": 95,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_02": {
-    "total_count": 100,
+    "total_count": 146,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1218,19 +1218,19 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_02": {
-    "total_count": 151,
-    "adds": 849,
-    "dels": 227,
-    "commits": 15
+    "total_count": 183,
+    "adds": 1111,
+    "dels": 259,
+    "commits": 23
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega2-TabNews-Forum": {
-    "total_count": 151,
+    "total_count": 159,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_02": {
-    "total_count": 52,
+    "total_count": 61,
     "adds": 0,
     "dels": 0,
     "commits": 0
