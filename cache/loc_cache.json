@@ -720,10 +720,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 34,
-    "adds": 3353,
-    "dels": 285,
-    "commits": 34
+    "total_count": 35,
+    "adds": 3362,
+    "dels": 294,
+    "commits": 35
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -1080,7 +1080,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 31,
+    "total_count": 36,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1122,7 +1122,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 61,
+    "total_count": 65,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1134,13 +1134,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 3,
+    "total_count": 25,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 31,
+    "total_count": 55,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1170,7 +1170,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 45,
+    "total_count": 49,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1188,7 +1188,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-CyberSetor": {
-    "total_count": 58,
+    "total_count": 125,
     "adds": 0,
     "dels": 0,
     "commits": 0
