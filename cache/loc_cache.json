@@ -720,10 +720,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 40,
-    "adds": 3421,
-    "dels": 353,
-    "commits": 40
+    "total_count": 41,
+    "adds": 3440,
+    "dels": 366,
+    "commits": 41
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -1080,7 +1080,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 40,
+    "total_count": 43,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1122,7 +1122,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 72,
+    "total_count": 79,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1140,13 +1140,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 63,
+    "total_count": 79,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 101,
+    "total_count": 112,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1212,7 +1212,7 @@
     "commits": 0
   },
   "Bappoz/inflatrack": {
-    "total_count": 48,
+    "total_count": 49,
     "adds": 297,
     "dels": 8,
     "commits": 7
