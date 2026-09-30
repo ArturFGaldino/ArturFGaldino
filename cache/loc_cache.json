@@ -720,10 +720,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 42,
-    "adds": 3451,
-    "dels": 377,
-    "commits": 42
+    "total_count": 43,
+    "adds": 3470,
+    "dels": 396,
+    "commits": 43
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -1116,13 +1116,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 111,
+    "total_count": 153,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 93,
+    "total_count": 94,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1146,13 +1146,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 130,
+    "total_count": 138,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 27,
+    "total_count": 29,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1170,7 +1170,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 55,
+    "total_count": 57,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1188,7 +1188,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-CyberSetor": {
-    "total_count": 158,
+    "total_count": 178,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1237,6 +1237,12 @@
   },
   "me50/ArturFGaldino": {
     "total_count": 1,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_03": {
+    "total_count": 4,
     "adds": 0,
     "dels": 0,
     "commits": 0
