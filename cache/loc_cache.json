@@ -720,10 +720,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 50,
-    "adds": 3577,
-    "dels": 479,
-    "commits": 50
+    "total_count": 51,
+    "adds": 3599,
+    "dels": 495,
+    "commits": 51
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -870,10 +870,10 @@
     "commits": 0
   },
   "iogurt-startup/backend": {
-    "total_count": 73,
-    "adds": 0,
-    "dels": 0,
-    "commits": 0
+    "total_count": 138,
+    "adds": 837,
+    "dels": 48,
+    "commits": 12
   },
   "Gotc2607/Comp-Interpretador-Javascript": {
     "total_count": 126,
@@ -882,10 +882,10 @@
     "commits": 41
   },
   "iogurt-startup/frontend": {
-    "total_count": 97,
-    "adds": 0,
-    "dels": 0,
-    "commits": 0
+    "total_count": 116,
+    "adds": 15,
+    "dels": 45,
+    "commits": 1
   },
   "mdsreq-fga-unb/REQ-2026.1-T02-Salvando-Vidas-atraves-do-Esporte": {
     "total_count": 417,
@@ -1098,22 +1098,22 @@
     "commits": 0
   },
   "gces-iorgut-startup/backend": {
-    "total_count": 114,
+    "total_count": 138,
     "adds": 837,
     "dels": 48,
     "commits": 12
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 99,
+    "total_count": 116,
     "adds": 15,
     "dels": 45,
     "commits": 1
   },
   "gces-iorgut-startup/documentation": {
-    "total_count": 24,
-    "adds": 0,
-    "dels": 0,
-    "commits": 0
+    "total_count": 32,
+    "adds": 89,
+    "dels": 6,
+    "commits": 3
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
     "total_count": 160,
@@ -1122,7 +1122,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 133,
+    "total_count": 139,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1134,7 +1134,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 38,
+    "total_count": 40,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1146,13 +1146,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 143,
+    "total_count": 160,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 39,
+    "total_count": 40,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1164,7 +1164,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
-    "total_count": 99,
+    "total_count": 104,
     "adds": 0,
     "dels": 0,
     "commits": 0
