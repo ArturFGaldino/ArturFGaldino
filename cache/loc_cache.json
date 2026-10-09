@@ -713,6 +713,18 @@
     "dels": 0,
     "commits": 1
   },
+  "UnB-IHC/repositorio_template": {
+    "total_count": 37,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/.github": {
+    "total_count": 8,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
   "ArturFGaldino/Trabalho-Final-OO": {
     "total_count": 82,
     "adds": 4507,
@@ -720,10 +732,76 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
+    "total_count": 52,
+    "adds": 3626,
+    "dels": 522,
+    "commits": 52
+  },
+  "UnB-IHC/ihc2025.1-grupo1": {
+    "total_count": 45,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/ihc2025.1-grupo10": {
     "total_count": 51,
-    "adds": 3599,
-    "dels": 495,
-    "commits": 51
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo09": {
+    "total_count": 69,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo12": {
+    "total_count": 58,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo08": {
+    "total_count": 18,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo07": {
+    "total_count": 68,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo02": {
+    "total_count": 54,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo05": {
+    "total_count": 69,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo11": {
+    "total_count": 42,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo06": {
+    "total_count": 16,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.1-Grupo04": {
+    "total_count": 44,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
   },
   "unb-mds/2025-2-OncoMap": {
     "total_count": 476,
@@ -845,17 +923,83 @@
     "dels": 0,
     "commits": 0
   },
+  "UnB-IHC/IHC-2025.2-Grupo4": {
+    "total_count": 9,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.2-Grupo6": {
+    "total_count": 76,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
   "Fabiovieira05/Sistema-RSA": {
     "total_count": 10,
     "adds": 171,
     "dels": 1,
     "commits": 3
   },
+  "UnB-IHC/IHC_2025.2_Grupo01": {
+    "total_count": 53,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2025.2_Grupo02": {
+    "total_count": 139,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.2-Grupo05": {
+    "total_count": 34,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2025.2_Grupo10": {
+    "total_count": 21,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2025.2_Grupo09": {
+    "total_count": 5,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/template_accessibility_plugin": {
+    "total_count": 3,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2025.2-Grupo7": {
+    "total_count": 57,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2025.2_Grupo08": {
+    "total_count": 3,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
   "Membro-Orc-estra/Inovatech": {
     "total_count": 53,
     "adds": 2557,
     "dels": 524,
     "commits": 50
+  },
+  "UnB-IHC/IHC_2025.2_Grupo3": {
+    "total_count": 7,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
   },
   "ArturFGaldino/Portifolio-Orcestra": {
     "total_count": 4,
@@ -995,6 +1139,36 @@
     "dels": 164,
     "commits": 18
   },
+  "UnB-IHC/IHC-2026.1-Grupo02": {
+    "total_count": 55,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.1_Grupo06": {
+    "total_count": 40,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.1_Grupo04": {
+    "total_count": 17,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.1_Grupo05": {
+    "total_count": 15,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.1_Grupo07": {
+    "total_count": 98,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
   "UnB-IHC/IHC_2026.1_Grupo10": {
     "total_count": 96,
     "adds": 12563,
@@ -1007,11 +1181,41 @@
     "dels": 3822,
     "commits": 86
   },
+  "UnB-IHC/IHC_2026.1_Grupo01": {
+    "total_count": 31,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC-2026.1_Grupo08": {
+    "total_count": 24,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.1_Grupo03": {
+    "total_count": 14,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.1_Grupo11": {
+    "total_count": 47,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
   "Gotc2607/Projeto-EDA2": {
     "total_count": 18,
     "adds": 335,
     "dels": 83,
     "commits": 3
+  },
+  "UnB-IHC/IHC_2026.1_Grupo9": {
+    "total_count": 32,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega1": {
     "total_count": 34,
@@ -1122,7 +1326,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 139,
+    "total_count": 152,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1146,7 +1350,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 160,
+    "total_count": 163,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1242,13 +1446,13 @@
     "commits": 4
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_03": {
-    "total_count": 6,
+    "total_count": 9,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega3-TabNews-Forum": {
-    "total_count": 2,
+    "total_count": 4,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1267,6 +1471,12 @@
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_03": {
     "total_count": 12,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_03": {
+    "total_count": 6,
     "adds": 0,
     "dels": 0,
     "commits": 0
