@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 56,
-    "adds": 3887,
-    "dels": 567,
-    "commits": 56
+    "total_count": 57,
+    "adds": 3907,
+    "dels": 587,
+    "commits": 57
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1344,7 +1344,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 138,
+    "total_count": 139,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1356,7 +1356,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 111,
+    "total_count": 115,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1368,7 +1368,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
-    "total_count": 166,
+    "total_count": 187,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1416,10 +1416,10 @@
     "commits": 0
   },
   "Bappoz/inflatrack": {
-    "total_count": 72,
-    "adds": 482,
-    "dels": 43,
-    "commits": 9
+    "total_count": 99,
+    "adds": 3069,
+    "dels": 49,
+    "commits": 23
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_02": {
     "total_count": 183,
@@ -1452,7 +1452,7 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega3-TabNews-Forum": {
-    "total_count": 6,
+    "total_count": 16,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1470,7 +1470,7 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_03": {
-    "total_count": 12,
+    "total_count": 20,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1483,6 +1483,12 @@
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-G4_ProjetoJogo_Entrega_03": {
     "total_count": 3,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_SubEquipe02_Codigo": {
+    "total_count": 2,
     "adds": 0,
     "dels": 0,
     "commits": 0
