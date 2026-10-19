@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 61,
-    "adds": 3968,
-    "dels": 642,
-    "commits": 61
+    "total_count": 62,
+    "adds": 3982,
+    "dels": 656,
+    "commits": 62
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1362,10 +1362,10 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 4,
-    "adds": 0,
-    "dels": 0,
-    "commits": 0
+    "total_count": 25,
+    "adds": 767,
+    "dels": 359,
+    "commits": 8
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
     "total_count": 187,
@@ -1416,7 +1416,7 @@
     "commits": 0
   },
   "Bappoz/inflatrack": {
-    "total_count": 105,
+    "total_count": 109,
     "adds": 3069,
     "dels": 49,
     "commits": 23
@@ -1446,13 +1446,13 @@
     "commits": 4
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_03": {
-    "total_count": 54,
+    "total_count": 96,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/RepositorioTemplateEntrega3-TabNews-Forum": {
-    "total_count": 98,
+    "total_count": 200,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1464,31 +1464,43 @@
     "commits": 7
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_03": {
-    "total_count": 26,
+    "total_count": 49,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G5_ProjetoGovernoEletronico_Entrega_03": {
-    "total_count": 141,
-    "adds": 2391,
-    "dels": 259,
-    "commits": 13
+    "total_count": 197,
+    "adds": 9831,
+    "dels": 834,
+    "commits": 26
+  },
+  "UnBArqDsw2026-2-Turma01/g6-streaming-entrega03-subgrupo01-codigo": {
+    "total_count": 43,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_03": {
-    "total_count": 6,
+    "total_count": 77,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-G4_ProjetoJogo_Entrega_03": {
-    "total_count": 35,
+    "total_count": 63,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_SubEquipe02_Codigo": {
-    "total_count": 40,
+    "total_count": 61,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/g6-streaming-entrega03-subgrupo03-codigo": {
+    "total_count": 2,
     "adds": 0,
     "dels": 0,
     "commits": 0
