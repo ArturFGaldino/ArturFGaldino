@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 64,
-    "adds": 4033,
-    "dels": 695,
-    "commits": 64
+    "total_count": 65,
+    "adds": 4041,
+    "dels": 703,
+    "commits": 65
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -988,12 +988,6 @@
     "adds": 0,
     "dels": 0,
     "commits": 0
-  },
-  "Membro-Orc-estra/Inovatech": {
-    "total_count": 53,
-    "adds": 2557,
-    "dels": 524,
-    "commits": 50
   },
   "UnB-IHC/IHC_2025.2_Grupo3": {
     "total_count": 7,
@@ -1344,7 +1338,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 139,
+    "total_count": 153,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1362,10 +1356,10 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 25,
-    "adds": 767,
-    "dels": 359,
-    "commits": 8
+    "total_count": 27,
+    "adds": 1250,
+    "dels": 408,
+    "commits": 9
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
     "total_count": 187,
