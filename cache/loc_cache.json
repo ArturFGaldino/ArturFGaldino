@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 69,
-    "adds": 4080,
-    "dels": 748,
-    "commits": 69
+    "total_count": 70,
+    "adds": 4087,
+    "dels": 755,
+    "commits": 70
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1338,7 +1338,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 196,
+    "total_count": 244,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1356,7 +1356,7 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 27,
+    "total_count": 29,
     "adds": 1250,
     "dels": 408,
     "commits": 9
