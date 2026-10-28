@@ -450,7 +450,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/2024.1-Echoeasy": {
-    "total_count": 171,
+    "total_count": 0,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 70,
-    "adds": 4087,
-    "dels": 755,
-    "commits": 70
+    "total_count": 71,
+    "adds": 4096,
+    "dels": 764,
+    "commits": 71
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1278,7 +1278,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 100,
+    "total_count": 105,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1296,13 +1296,13 @@
     "commits": 0
   },
   "gces-iorgut-startup/backend": {
-    "total_count": 138,
+    "total_count": 142,
     "adds": 837,
     "dels": 48,
     "commits": 12
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 116,
+    "total_count": 121,
     "adds": 15,
     "dels": 45,
     "commits": 1
@@ -1338,13 +1338,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 244,
+    "total_count": 265,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 252,
+    "total_count": 253,
     "adds": 0,
     "dels": 0,
     "commits": 0
