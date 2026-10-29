@@ -450,7 +450,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/2024.1-Echoeasy": {
-    "total_count": 0,
+    "total_count": 171,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 71,
-    "adds": 4096,
-    "dels": 764,
-    "commits": 71
+    "total_count": 72,
+    "adds": 4110,
+    "dels": 778,
+    "commits": 72
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1278,7 +1278,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 105,
+    "total_count": 106,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1296,19 +1296,19 @@
     "commits": 0
   },
   "gces-iorgut-startup/backend": {
-    "total_count": 142,
-    "adds": 837,
-    "dels": 48,
-    "commits": 12
+    "total_count": 162,
+    "adds": 2091,
+    "dels": 142,
+    "commits": 22
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 121,
-    "adds": 15,
-    "dels": 45,
-    "commits": 1
+    "total_count": 144,
+    "adds": 1659,
+    "dels": 113,
+    "commits": 6
   },
   "gces-iorgut-startup/documentation": {
-    "total_count": 32,
+    "total_count": 34,
     "adds": 89,
     "dels": 6,
     "commits": 3
@@ -1320,7 +1320,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 182,
+    "total_count": 184,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1332,19 +1332,19 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 97,
+    "total_count": 99,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 265,
+    "total_count": 284,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 253,
+    "total_count": 260,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1356,7 +1356,7 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 29,
+    "total_count": 30,
     "adds": 1250,
     "dels": 408,
     "commits": 9
@@ -1368,7 +1368,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 98,
+    "total_count": 101,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1495,6 +1495,12 @@
   },
   "UnBArqDsw2026-2-Turma01/g6-streaming-entrega03-subgrupo03-codigo": {
     "total_count": 26,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.2_Grupo10": {
+    "total_count": 1,
     "adds": 0,
     "dels": 0,
     "commits": 0
