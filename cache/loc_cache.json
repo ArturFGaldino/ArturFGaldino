@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 72,
-    "adds": 4110,
-    "dels": 778,
-    "commits": 72
+    "total_count": 73,
+    "adds": 4141,
+    "dels": 803,
+    "commits": 73
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1314,13 +1314,13 @@
     "commits": 3
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 226,
+    "total_count": 230,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 184,
+    "total_count": 188,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1332,13 +1332,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 99,
+    "total_count": 103,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 284,
+    "total_count": 286,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1504,5 +1504,17 @@
     "adds": 0,
     "dels": 0,
     "commits": 0
+  },
+  "UnB-IHC/IHC_2026.2_Grupo08": {
+    "total_count": 1,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnB-IHC/IHC_2026.2_Grupo04": {
+    "total_count": 2,
+    "adds": 9404,
+    "dels": 0,
+    "commits": 1
   }
 }
