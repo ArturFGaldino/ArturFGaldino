@@ -312,7 +312,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/2023.2-Matriculai": {
-    "total_count": 164,
+    "total_count": 0,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 78,
-    "adds": 4239,
-    "dels": 865,
-    "commits": 78
+    "total_count": 79,
+    "adds": 4262,
+    "dels": 876,
+    "commits": 79
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1278,7 +1278,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 127,
+    "total_count": 139,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1314,13 +1314,13 @@
     "commits": 3
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 277,
+    "total_count": 284,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 193,
+    "total_count": 197,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1332,7 +1332,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 108,
+    "total_count": 114,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1356,10 +1356,10 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 30,
-    "adds": 1250,
-    "dels": 408,
-    "commits": 9
+    "total_count": 39,
+    "adds": 2783,
+    "dels": 633,
+    "commits": 15
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
     "total_count": 187,
@@ -1512,13 +1512,13 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo04": {
-    "total_count": 16,
+    "total_count": 19,
     "adds": 9404,
     "dels": 0,
     "commits": 1
   },
   "UnB-IHC/IHC_2026.2_Grupo01": {
-    "total_count": 4,
+    "total_count": 12,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1548,7 +1548,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo12": {
-    "total_count": 1,
+    "total_count": 6,
     "adds": 0,
     "dels": 0,
     "commits": 0
