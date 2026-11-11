@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 84,
-    "adds": 4365,
-    "dels": 955,
-    "commits": 84
+    "total_count": 85,
+    "adds": 4388,
+    "dels": 972,
+    "commits": 85
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1170,7 +1170,7 @@
     "commits": 20
   },
   "DiProjOrcestra/GR7-Seguro": {
-    "total_count": 440,
+    "total_count": 442,
     "adds": 21654,
     "dels": 3822,
     "commits": 86
@@ -1278,7 +1278,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 161,
+    "total_count": 172,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1302,7 +1302,7 @@
     "commits": 24
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 145,
+    "total_count": 147,
     "adds": 1659,
     "dels": 113,
     "commits": 6
@@ -1350,16 +1350,16 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 133,
+    "total_count": 136,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 39,
-    "adds": 2783,
-    "dels": 633,
-    "commits": 15
+    "total_count": 53,
+    "adds": 3090,
+    "dels": 644,
+    "commits": 18
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
     "total_count": 187,
@@ -1386,7 +1386,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-CyberSetor": {
-    "total_count": 313,
+    "total_count": 319,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1500,7 +1500,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo10": {
-    "total_count": 50,
+    "total_count": 52,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1512,7 +1512,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo04": {
-    "total_count": 24,
+    "total_count": 35,
     "adds": 9404,
     "dels": 0,
     "commits": 1
@@ -1524,7 +1524,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo03": {
-    "total_count": 1,
+    "total_count": 18,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1548,13 +1548,13 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo12": {
-    "total_count": 21,
+    "total_count": 33,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo02": {
-    "total_count": 10,
+    "total_count": 11,
     "adds": 0,
     "dels": 0,
     "commits": 0
