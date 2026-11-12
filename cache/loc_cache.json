@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 85,
-    "adds": 4388,
-    "dels": 972,
-    "commits": 85
+    "total_count": 86,
+    "adds": 4410,
+    "dels": 994,
+    "commits": 86
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1170,7 +1170,7 @@
     "commits": 20
   },
   "DiProjOrcestra/GR7-Seguro": {
-    "total_count": 442,
+    "total_count": 443,
     "adds": 21654,
     "dels": 3822,
     "commits": 86
@@ -1296,16 +1296,16 @@
     "commits": 0
   },
   "gces-iorgut-startup/backend": {
-    "total_count": 172,
-    "adds": 2321,
-    "dels": 149,
-    "commits": 24
+    "total_count": 199,
+    "adds": 2481,
+    "dels": 167,
+    "commits": 25
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 147,
-    "adds": 1659,
-    "dels": 113,
-    "commits": 6
+    "total_count": 179,
+    "adds": 3056,
+    "dels": 180,
+    "commits": 9
   },
   "gces-iorgut-startup/documentation": {
     "total_count": 35,
@@ -1314,13 +1314,13 @@
     "commits": 3
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 284,
+    "total_count": 291,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 206,
+    "total_count": 210,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1344,7 +1344,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-RedeCafuringa": {
-    "total_count": 260,
+    "total_count": 581,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1356,10 +1356,10 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 53,
-    "adds": 3090,
-    "dels": 644,
-    "commits": 18
+    "total_count": 77,
+    "adds": 3863,
+    "dels": 799,
+    "commits": 27
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
     "total_count": 187,
@@ -1368,7 +1368,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 103,
+    "total_count": 109,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1512,25 +1512,25 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo04": {
-    "total_count": 35,
+    "total_count": 39,
     "adds": 9404,
     "dels": 0,
     "commits": 1
   },
   "UnB-IHC/IHC_2026.2_Grupo01": {
-    "total_count": 40,
+    "total_count": 48,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo03": {
-    "total_count": 18,
+    "total_count": 19,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo05": {
-    "total_count": 1,
+    "total_count": 20,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1542,7 +1542,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo06": {
-    "total_count": 6,
+    "total_count": 8,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1554,13 +1554,13 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo02": {
-    "total_count": 11,
+    "total_count": 14,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo09": {
-    "total_count": 1,
+    "total_count": 31,
     "adds": 0,
     "dels": 0,
     "commits": 0
