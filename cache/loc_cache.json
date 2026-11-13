@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 86,
-    "adds": 4410,
-    "dels": 994,
-    "commits": 86
+    "total_count": 87,
+    "adds": 4442,
+    "dels": 1026,
+    "commits": 87
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1296,16 +1296,16 @@
     "commits": 0
   },
   "gces-iorgut-startup/backend": {
-    "total_count": 199,
-    "adds": 2481,
+    "total_count": 205,
+    "adds": 3642,
     "dels": 167,
-    "commits": 25
+    "commits": 26
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 179,
-    "adds": 3056,
-    "dels": 180,
-    "commits": 9
+    "total_count": 186,
+    "adds": 4089,
+    "dels": 181,
+    "commits": 10
   },
   "gces-iorgut-startup/documentation": {
     "total_count": 35,
@@ -1320,7 +1320,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 210,
+    "total_count": 223,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1332,7 +1332,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 130,
+    "total_count": 140,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1356,7 +1356,7 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 77,
+    "total_count": 79,
     "adds": 3863,
     "dels": 799,
     "commits": 27
@@ -1410,7 +1410,7 @@
     "commits": 0
   },
   "Bappoz/inflatrack": {
-    "total_count": 208,
+    "total_count": 221,
     "adds": 5185,
     "dels": 2653,
     "commits": 34
@@ -1542,7 +1542,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo06": {
-    "total_count": 8,
+    "total_count": 16,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1554,7 +1554,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo02": {
-    "total_count": 14,
+    "total_count": 15,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1566,13 +1566,13 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_04": {
-    "total_count": 3,
+    "total_count": 8,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G1_ProjetoComercioEletronico_Entrega_04": {
-    "total_count": 1,
+    "total_count": 2,
     "adds": 0,
     "dels": 0,
     "commits": 0
