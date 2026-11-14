@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 87,
-    "adds": 4442,
-    "dels": 1026,
-    "commits": 87
+    "total_count": 88,
+    "adds": 4465,
+    "dels": 1049,
+    "commits": 88
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1008,10 +1008,10 @@
     "commits": 0
   },
   "iogurt-startup/backend": {
-    "total_count": 165,
-    "adds": 2091,
-    "dels": 142,
-    "commits": 22
+    "total_count": 236,
+    "adds": 4580,
+    "dels": 213,
+    "commits": 31
   },
   "Gotc2607/Comp-Interpretador-Javascript": {
     "total_count": 126,
@@ -1020,10 +1020,10 @@
     "commits": 41
   },
   "iogurt-startup/frontend": {
-    "total_count": 145,
-    "adds": 1659,
-    "dels": 113,
-    "commits": 6
+    "total_count": 208,
+    "adds": 6428,
+    "dels": 228,
+    "commits": 16
   },
   "mdsreq-fga-unb/REQ-2026.1-T02-Salvando-Vidas-atraves-do-Esporte": {
     "total_count": 417,
@@ -1278,7 +1278,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 172,
+    "total_count": 176,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1296,16 +1296,16 @@
     "commits": 0
   },
   "gces-iorgut-startup/backend": {
-    "total_count": 205,
-    "adds": 3642,
-    "dels": 167,
-    "commits": 26
+    "total_count": 233,
+    "adds": 4580,
+    "dels": 213,
+    "commits": 31
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 186,
-    "adds": 4089,
-    "dels": 181,
-    "commits": 10
+    "total_count": 207,
+    "adds": 6428,
+    "dels": 228,
+    "commits": 16
   },
   "gces-iorgut-startup/documentation": {
     "total_count": 35,
@@ -1356,7 +1356,7 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 79,
+    "total_count": 88,
     "adds": 3863,
     "dels": 799,
     "commits": 27
@@ -1380,13 +1380,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-MindCycle": {
-    "total_count": 9,
+    "total_count": 25,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-CyberSetor": {
-    "total_count": 319,
+    "total_count": 361,
     "adds": 0,
     "dels": 0,
     "commits": 0
