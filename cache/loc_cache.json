@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 88,
-    "adds": 4465,
-    "dels": 1049,
-    "commits": 88
+    "total_count": 89,
+    "adds": 4493,
+    "dels": 1077,
+    "commits": 89
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1278,7 +1278,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 176,
+    "total_count": 179,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1320,7 +1320,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 223,
+    "total_count": 241,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1338,7 +1338,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 290,
+    "total_count": 655,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1350,7 +1350,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 136,
+    "total_count": 153,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1362,13 +1362,13 @@
     "commits": 27
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SpaceJam": {
-    "total_count": 187,
+    "total_count": 191,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 109,
+    "total_count": 116,
     "adds": 0,
     "dels": 0,
     "commits": 0
