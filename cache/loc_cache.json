@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 90,
-    "adds": 4506,
-    "dels": 1090,
-    "commits": 90
+    "total_count": 91,
+    "adds": 4527,
+    "dels": 1111,
+    "commits": 91
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1278,7 +1278,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-MaesGuerreiras": {
-    "total_count": 187,
+    "total_count": 207,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1290,7 +1290,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-SigCecp": {
-    "total_count": 141,
+    "total_count": 143,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1302,25 +1302,25 @@
     "commits": 31
   },
   "gces-iorgut-startup/frontend": {
-    "total_count": 207,
+    "total_count": 216,
     "adds": 6428,
     "dels": 228,
     "commits": 16
   },
   "gces-iorgut-startup/documentation": {
-    "total_count": 35,
+    "total_count": 38,
     "adds": 89,
     "dels": 6,
     "commits": 3
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-DUOC-Finance": {
-    "total_count": 291,
+    "total_count": 340,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-FutBoard": {
-    "total_count": 245,
+    "total_count": 280,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1332,13 +1332,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T01-IBRADA-NET": {
-    "total_count": 163,
+    "total_count": 327,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-ClinicaEscolaFBr": {
-    "total_count": 666,
+    "total_count": 769,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1350,13 +1350,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-202562-T02-TSI-AutoPecas": {
-    "total_count": 157,
+    "total_count": 205,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 151,
+    "total_count": 162,
     "adds": 49912,
     "dels": 1199,
     "commits": 55
@@ -1368,7 +1368,7 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-GameDuo": {
-    "total_count": 116,
+    "total_count": 165,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1380,13 +1380,13 @@
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-MindCycle": {
-    "total_count": 77,
+    "total_count": 118,
     "adds": 0,
     "dels": 0,
     "commits": 0
   },
   "mdsreq-fga-unb/REQ-2026.2-T02-CyberSetor": {
-    "total_count": 361,
+    "total_count": 408,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1518,7 +1518,7 @@
     "commits": 1
   },
   "UnB-IHC/IHC_2026.2_Grupo01": {
-    "total_count": 48,
+    "total_count": 51,
     "adds": 0,
     "dels": 0,
     "commits": 0
