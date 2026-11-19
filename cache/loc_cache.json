@@ -732,10 +732,10 @@
     "commits": 51
   },
   "ArturFGaldino/ArturFGaldino": {
-    "total_count": 92,
-    "adds": 4548,
-    "dels": 1132,
-    "commits": 92
+    "total_count": 93,
+    "adds": 4562,
+    "dels": 1146,
+    "commits": 93
   },
   "UnB-IHC/ihc2025.1-grupo1": {
     "total_count": 45,
@@ -1356,7 +1356,7 @@
     "commits": 0
   },
   "FCTE-Qualidade-de-Software-1/2026-2_T02_KAY_MCNULTY": {
-    "total_count": 162,
+    "total_count": 167,
     "adds": 49912,
     "dels": 1199,
     "commits": 55
@@ -1506,7 +1506,7 @@
     "commits": 0
   },
   "UnB-IHC/IHC_2026.2_Grupo08": {
-    "total_count": 11,
+    "total_count": 13,
     "adds": 0,
     "dels": 0,
     "commits": 0
@@ -1578,7 +1578,13 @@
     "commits": 0
   },
   "UnBArqDsw2026-2-Turma01/2026.2-T01-_G6_ProjetoStreamingVideo_Entrega_04_Codigo": {
-    "total_count": 5,
+    "total_count": 37,
+    "adds": 0,
+    "dels": 0,
+    "commits": 0
+  },
+  "UnBArqDsw2026-2-Turma01/2026.2-T01-_G3_ProjetoPortalNoticias_Entrega_04": {
+    "total_count": 4,
     "adds": 0,
     "dels": 0,
     "commits": 0
